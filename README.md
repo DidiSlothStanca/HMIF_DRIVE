@@ -12,7 +12,7 @@
 * **UI/UX**: Dark/Light mode support and fully responsive design.
 
 ## 🛠️ Quick Installation (Linux)
-
+![Dashboard Admin](screenshoot/4.png)
 You can deploy this project quickly by running the following commands in your terminal. This will clone the repository, set the correct permissions, and prepare the environment.
 
 ```bash
